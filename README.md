@@ -2,8 +2,8 @@
 
 ### A passionate Learning journey on programming from India
 
-![Profile views](https://gpvc.arturio.dev/tech-Rishi) 
-[![GitHub followers](https://img.shields.io/github/followers/tech-Rishi?label=Follow&style=social)](https://github.com/tech-Rishi)
+![Profile views](https://gpvc.arturio.dev/techy-Rishi) 
+[![GitHub followers](https://img.shields.io/github/followers/techy-Rishi?label=Follow&style=social)](https://github.com/techy-Rishi)
 
 ### How to reach me:
 📫 rahulrishiyadav1994@gmail.com
@@ -26,11 +26,16 @@
 
 ---
 
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techy-Rishi&layout=compact&hide=javascript,css&theme=default)
+
+---
+
 ## Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-Rishi&show_icons=true&hide_title=true&count_private=true&theme=default&hide=issues)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=techy-Rishi&show_icons=true&hide_title=true&count_private=true&theme=default&hide=issues)
 
 ---
 
 ## Contributions:
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tech-Rishi)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=techy-Rishi)
